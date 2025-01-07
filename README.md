@@ -1,3 +1,3 @@
 # Bugs
 This is my bug repository
-Tarun Ghalot
+Auther : Tarun Ghalot
